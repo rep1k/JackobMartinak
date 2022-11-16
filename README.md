@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @JackobMartinak
-- 👀 I’m interested in Web development, Desing and programming in general
-- 🌱 I’m currently learning JavaScript, C, Python, Data Science.
+- 🌱 I’m currently learning C,C++ ,Python and Computer Science in general.
 - 📫 How to reach me IG @dzejkob0_0, Twitter @JakubMartink2
-
