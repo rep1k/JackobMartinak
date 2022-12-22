@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JackobMartinak
-- 🌱 I’m currently learning C,C++ ,Python and Computer Science in general.
+- 🌱 I’m currently learning Cyber Security and Computer Science!
 - 📫 How to reach me IG @dzejkob0_0, Twitter @JakubMartink2
